@@ -1,0 +1,19 @@
+[submodule "3rdparty/type_safe"]
+	path = 3rdparty/type_safe
+	url = https://github.com/foonathan/type_safe.git
+	ignore = dirty
+[submodule "3rdparty/entt"]
+	path = 3rdparty/entt
+	url = https://github.com/skypjack/entt.git
+[submodule "3rdparty/doctest"]
+	path = 3rdparty/doctest
+	url = https://github.com/onqtam/doctest.git
+[submodule "3rdparty/gsl-lite"]
+	path = 3rdparty/gsl-lite
+	url = https://github.com/gsl-lite/gsl-lite.git
+[submodule "3rdparty/FakeIt"]
+	path = 3rdparty/FakeIt
+	url = https://github.com/eranpeer/FakeIt.git
+[submodule "3rdparty/optional"]
+	path = 3rdparty/optional
+	url = https://github.com/TartanLlama/optional.git
