@@ -6,6 +6,6 @@
   <ItemGroup>
     <ClInclude Include="..\..\A\include\disable_warnings.h" />
     <ClInclude Include="..\..\A\include\doctest_wrapper.h" />
-    <ClInclude Include="..\..\A\include\BAIL\basic_types.h" />
+    <ClInclude Include="..\..\A\include\A\basic_types.h" />
   </ItemGroup>
 </Project>
